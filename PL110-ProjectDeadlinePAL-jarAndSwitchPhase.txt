@@ -1,0 +1,47 @@
+PL110_10827114
+
+1. Project due date is 2022-06-26 (Sun.) at midnight. 
+
+2. If your Windows 8/10/... fails to run PAL-2022-03-01-1-0.exe, it may be because the JDK/JRE your Windows OS is using is incompatible with the old version of JDK with which PAL-2022-03-01-1-0.exe was built with. Therefore, when your Windows 8/10/... does not execute PAL-2022-03-01-1-0.exe smoothly, you need to run PAL-2022-03-01-1-0.jar using java.exe of JDK/JRE 6uX. (For some unknown reason, java.exe of JRE 6uX is better than java.exe of JDK 6uX. So, please use java.exe of JRE 6uX to run PAL-2022-03-01-1-0.jar.)
+
+3. To run PAL-2022-03-01-1-0.jar using java.exe of JDK/JRE 6uX, you need to do something similar to what is said in Visual-C之安裝與使用.doc. Please consult what is said in Visual-C之安裝與使用.doc when you try to run  PAL-2022-03-01-1-0.jar using java.exe of JRE 6uX.
+
+4. The current PL project is Our-C. It has two "phases". The first phase contains Proj. 1 and Proj. 2, while the second phase contains Proj.3 and Proj. 4. You start with Phase 1, and you can switch between these two phases. But try not to switch too often (for obvious reasons). Here are the steps you should follow when you want to switch the phase of your account.
+
+  (a) Go to the PL board of our BBS (神祕之旅).
+
+  (b) Post an article entitled : PL110_10827314申請切換至200
+                                 OR
+                                 PL110_10827314申請切換至100
+      where
+      PL110_10827314 is your account. // please use your PL account and not really PL110_10827314
+
+  (c) To switch to Phase 2 (Proj. 3+4), you need to 申請切換至200
+      To switch to Phase 1 (Proj. 1+2), you need to 申請切換至100
+
+  (d) When I see your post, I will make the switch. Once I am done with switching the phase of your account, I will 推文 under your post, saying 'Done.'
+
+  (e) If you do not know how to do these things, ask the TAs.
+
+      The two TAs are
+
+      林冠良 popshia@cycu.org.tw
+      李峻瑋 junwei9638@cycu.org.tw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
